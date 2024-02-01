@@ -3,7 +3,7 @@ services:
   - type: web
     name: webdis
     env: docker
-    repo: https://github.com/riimuru/gogoanime-api.git
+    repo: https://github.com/ozxd222/Anime
     plan: free
     branch: main
     envVars:
